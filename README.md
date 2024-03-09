@@ -14,6 +14,3 @@ Tableau merupakan salah satu platform yang digunakan pada pelatihan ini untuk me
 5. Tunggu hingga alamat email berhasil diverifikasi
 6. Setelah email berhasil diverifikasi, buka kotak masuk email Anda (Outlook) untuk mendapatkan product key dari Tableau
 7. Ikuti tautan yang disediakan untuk mendownload Tableau
-
-## Google Big Query
-<img src="https://github.com/Pelatihan-Business-Intelligence-IMV2024/Pre-Course/assets/127041506/82e92a31-2930-4fc6-a39c-ddc9a3943b36" width=20% height=40%>
